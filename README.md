@@ -4,9 +4,10 @@ proyecto de curso Intro a IA, creacion modelo predictivo de resultado según var
 ## Adrian Mauricio Espinosa Montoya
 CC 10261131603
 ###Ingenieria en sistema
-##Fabián Esteban Alzate Bernal
+
+## Fabián Esteban Alzate Bernal
 cc 1020485465
-##Ingenieria electrica
-##Maria Jose Carmona Pamplona 
+## Ingenieria electrica
+## Maria Jose Carmona Pamplona 
 CC: 1001014962
-###Ingenieria industrial
+### Ingenieria industrial
