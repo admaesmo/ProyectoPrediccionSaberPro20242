@@ -3,7 +3,7 @@ proyecto de curso Intro a IA, creacion modelo predictivo de resultado según var
 
 ## Adrian Mauricio Espinosa Montoya
 CC 10261131603
-###Ingenieria en sistema
+### Ingenieria en sistema
 
 ## Fabián Esteban Alzate Bernal
 cc 1020485465
