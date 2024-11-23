@@ -16,3 +16,7 @@ CC: 1001014962
 # Entrega 2 
 ## Video Youtube
 - https://youtu.be/tjW3ZMeXwE8
+
+# Entrega final 
+## Video youtube
+https://youtu.be/Fvdjol4mKcU
